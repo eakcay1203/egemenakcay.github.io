@@ -1,0 +1,148 @@
+/***********************TAG Selector********************/
+div{
+  margin:0;
+}
+body{
+    margin: 0;
+    text-align: center;
+}
+p{
+  font-family: 'Montserrat', sans-serif;
+}
+h1{
+  margin: 0;
+  font-family: 'Poppins', sans-serif;
+  font-size: 562.5%;
+  color: #1f4068;
+}
+h2{
+  font-family: 'Poppins', sans-serif;
+  color: #1f4068;
+  font-size: 45px;
+  margin-bottom: 15px
+
+}
+h3{
+  font-family: 'Poppins', sans-serif;
+  color: #206a5d;
+  }
+a{
+  color: #206a5d;
+}
+hr{
+  margin: 15px auto 15px auto;
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #206a5d;
+  border-width: 7px;
+  width: 5%;
+  }
+/***********************Class Selector********************/
+.top{
+  background-color: #ebecf1;
+  padding-top: 85px;
+}
+.middle{
+
+}
+.bottom{
+  background-color: #1f4068;
+  height: 100px;
+}
+.top-cloud{
+  position: absolute;
+  right:300px;
+  top: 175px;
+}
+.bottom-cloud{
+  position: absolute;
+  left: 350px;
+  top: 350px;
+}
+.skill-row1{
+  width:50%;
+  margin:50px auto 100px auto;
+  text-align: right;
+  line-height: 1.5;
+}
+.skill-row2{
+  width:50%;
+  margin:50px auto 100px auto;
+  text-align: left;
+  line-height: 1.5;
+}
+.comp1{
+  border-radius: 100%;
+  width: 25%;
+  height: 25%;
+  float: left;
+  padding-right: 30px;
+}
+.comp2{
+  border-radius: 100%;
+  width: 25%;
+  height: 25%;
+  float: right;
+  padding-left: 30px ;
+}
+
+#pp{
+  width: 200px;
+  height: 200px;
+}
+
+.contact-me{
+  height: 200px;
+  margin-bottom: 20px ;
+}
+.button {
+  background-color: # #1f4068;
+  border: none;
+  color: #ebecf1;
+  padding: 10px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+  text-decoration: none;
+}
+
+.button5 {
+  background-color: #ebecf1;
+  color: #ebecf1;
+  border: 2px solid #1f4068;
+  text-decoration: none;
+  font-family: 'Montserrat', sans-serif;
+  border-radius: 2px;
+}
+
+.button5:hover {
+  background-color: #1f4068;
+  color: #ebecf1;
+  text-decoration: none;
+  font-family: 'Montserrat', sans-serif;
+  border-radius: 10px
+}
+
+.copright{
+  padding-top: 30px;
+  font-size: 75%;
+  color: #ebecf1;
+  padding-bottom: 30px;
+}
+.linkedin{
+  font-family: 'Montserrat', sans-serif;
+  padding-top: 20px;
+  text-decoration: none;
+  position: relative;
+  top:20px;
+  font-size: 24px;
+  color: #ebecf1;
+}
+.mail{
+  font-family: 'Montserrat', sans-serif;
+  text-decoration: none;
+}
